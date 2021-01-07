@@ -1,0 +1,12 @@
+C:\Users\mathe\repos\login-api\src\Login.Data\bin\Debug\netcoreapp3.1\Login.Data.deps.json
+C:\Users\mathe\repos\login-api\src\Login.Data\bin\Debug\netcoreapp3.1\Login.Data.dll
+C:\Users\mathe\repos\login-api\src\Login.Data\bin\Debug\netcoreapp3.1\Login.Data.pdb
+C:\Users\mathe\repos\login-api\src\Login.Data\bin\Debug\netcoreapp3.1\Login.Domain.dll
+C:\Users\mathe\repos\login-api\src\Login.Data\bin\Debug\netcoreapp3.1\Login.Domain.pdb
+C:\Users\mathe\repos\login-api\src\Login.Data\obj\Debug\netcoreapp3.1\Login.Data.csprojAssemblyReference.cache
+C:\Users\mathe\repos\login-api\src\Login.Data\obj\Debug\netcoreapp3.1\Login.Data.AssemblyInfoInputs.cache
+C:\Users\mathe\repos\login-api\src\Login.Data\obj\Debug\netcoreapp3.1\Login.Data.AssemblyInfo.cs
+C:\Users\mathe\repos\login-api\src\Login.Data\obj\Debug\netcoreapp3.1\Login.Data.csproj.CoreCompileInputs.cache
+C:\Users\mathe\repos\login-api\src\Login.Data\obj\Debug\netcoreapp3.1\Login.Data.csproj.CopyComplete
+C:\Users\mathe\repos\login-api\src\Login.Data\obj\Debug\netcoreapp3.1\Login.Data.dll
+C:\Users\mathe\repos\login-api\src\Login.Data\obj\Debug\netcoreapp3.1\Login.Data.pdb

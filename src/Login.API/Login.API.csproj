@@ -17,5 +17,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Login.Data\Login.Data.csproj" />
+    <ProjectReference Include="..\Login.Domain\Login.Domain.csproj" />
+  </ItemGroup>
+
 
 </Project>
