@@ -1,0 +1,9 @@
+C:\Users\mathe\repos\login-api\src\Login.Infraestruture\bin\Debug\netcoreapp3.1\Login.Infraestruture.deps.json
+C:\Users\mathe\repos\login-api\src\Login.Infraestruture\bin\Debug\netcoreapp3.1\Login.Infraestruture.dll
+C:\Users\mathe\repos\login-api\src\Login.Infraestruture\bin\Debug\netcoreapp3.1\Login.Infraestruture.pdb
+C:\Users\mathe\repos\login-api\src\Login.Infraestruture\obj\Debug\netcoreapp3.1\Login.Infraestruture.csprojAssemblyReference.cache
+C:\Users\mathe\repos\login-api\src\Login.Infraestruture\obj\Debug\netcoreapp3.1\Login.Infraestruture.AssemblyInfoInputs.cache
+C:\Users\mathe\repos\login-api\src\Login.Infraestruture\obj\Debug\netcoreapp3.1\Login.Infraestruture.AssemblyInfo.cs
+C:\Users\mathe\repos\login-api\src\Login.Infraestruture\obj\Debug\netcoreapp3.1\Login.Infraestruture.csproj.CoreCompileInputs.cache
+C:\Users\mathe\repos\login-api\src\Login.Infraestruture\obj\Debug\netcoreapp3.1\Login.Infraestruture.dll
+C:\Users\mathe\repos\login-api\src\Login.Infraestruture\obj\Debug\netcoreapp3.1\Login.Infraestruture.pdb

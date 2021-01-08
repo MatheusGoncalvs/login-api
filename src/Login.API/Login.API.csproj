@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.8" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.1">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -20,6 +21,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Login.Data\Login.Data.csproj" />
     <ProjectReference Include="..\Login.Domain\Login.Domain.csproj" />
+    <ProjectReference Include="..\Login.Infraestruture\Login.Infraestruture.csproj" />
   </ItemGroup>
 
 

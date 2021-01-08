@@ -26,6 +26,11 @@ namespace Login.Data
                     .HasMaxLength(50)
                     .IsUnicode(false);
 
+                entity.Property(e => e.UserId)
+                    .IsRequired()
+                    .HasMaxLength(50)
+                    .IsUnicode(false);
+
                 entity.Property(e => e.Senha)
                     .IsRequired()
                     .HasMaxLength(50)
