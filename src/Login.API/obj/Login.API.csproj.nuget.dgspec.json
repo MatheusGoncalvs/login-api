@@ -48,6 +48,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[3.1.8, )"
@@ -71,6 +75,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.1, )"
+            },
+            "automapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
             }
           },
           "imports": [

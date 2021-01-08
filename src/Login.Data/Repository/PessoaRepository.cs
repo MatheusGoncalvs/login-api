@@ -1,5 +1,6 @@
 using System;
 using System.Threading.Tasks;
+using Login.Domain;
 using Login.Domain.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
@@ -13,11 +14,11 @@ namespace Login.Data.Repository
         {
             this._pessoaContext = pessoaContext;
         }
-        public async Task<Guid> ObterIdPorUsuarioESenha(string email, string senha)
+        public async Task<Pessoa> ObterPessoaPorUsuarioESenha(string email, string senha)
         {
             var pessoa = await _pessoaContext.Pessoas.FirstOrDefaultAsync(p => p.Email == email && p.Senha == senha);
 
-            return Guid.Parse(pessoa.UserId);
+            return pessoa;
         }
     }
 }

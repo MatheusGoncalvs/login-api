@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "jMUQEdGPJoYcs8zganPsWWx2FQqsx0Hs3JjiNnzd9Frap33L3l1+36bqH+Zcq4mRiFpGZqS3jrYJPV/uP8ALEQ==",
+  "dgSpecHash": "NGGdn35HUxaNglQ8rbC2SpCnBuFZuRCe8z+EuEtNz0tf3cXFF/ti9koU6AL3GsQ0nB9BG94ClKvIvav+tcZjbA==",
   "success": true,
   "projectFilePath": "C:\\Users\\mathe\\repos\\login-api\\src\\Login.API\\Login.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.8\\microsoft.aspnetcore.authentication.jwtbearer.3.1.8.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -67,7 +69,7 @@
     "C:\\Users\\mathe\\.nuget\\packages\\system.private.datacontractserialization\\4.3.0\\system.private.datacontractserialization.4.3.0.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\system.private.uri\\4.3.2\\system.private.uri.4.3.2.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
-    "C:\\Users\\mathe\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",

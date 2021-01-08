@@ -13,6 +13,8 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using System.Threading.Tasks;
+using Login.API.AutoMapper;
+using AutoMapper;
 
 namespace Login.API
 {
@@ -29,6 +31,8 @@ namespace Login.API
         {
             services.AddScoped<ILoginAppService, LoginAppService>();
             services.AddScoped<IPessoaRepository, PessoaRepository>();
+
+            services.AddAutoMapper(typeof(DomainToViewModelMappingProfile));
 
             services.AddScoped<JwtToken>();
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)

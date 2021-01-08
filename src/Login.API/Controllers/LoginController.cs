@@ -21,7 +21,7 @@ namespace Login.API.Controllers
         {
             try
             {
-                return new JsonResult(await _loginAppService.Login(pessoaViewModel));
+                return Ok(await _loginAppService.Login(pessoaViewModel));
             }
             catch (Exception ex)
             {

@@ -68,3 +68,5 @@ C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Login.Domai
 C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Login.Infraestruture.dll
 C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Login.Infraestruture.pdb
+C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
