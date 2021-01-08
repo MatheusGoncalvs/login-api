@@ -3526,9 +3526,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\repos\\login-api\\tests\\Login.Tests\\Login.Tests.csproj",
-      "projectName": "Login.Tests",
-      "projectPath": "C:\\Users\\mathe\\repos\\login-api\\tests\\Login.Tests\\Login.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\repos\\login-api\\tests\\Login.Tests\\Unit.Tests.csproj",
+      "projectName": "Unit.Tests",
+      "projectPath": "C:\\Users\\mathe\\repos\\login-api\\tests\\Login.Tests\\Unit.Tests.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mathe\\repos\\login-api\\tests\\Login.Tests\\obj\\",
       "projectStyle": "PackageReference",

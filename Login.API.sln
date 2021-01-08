@@ -1,21 +1,23 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26124.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1C96E5E1-3F54-49A0-91B1-3FA192E9E539}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login.API", "src\Login.API\Login.API.csproj", "{3F9EBBAC-6A42-49D7-89FD-110BC6AEEF67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Login.API", "src\Login.API\Login.API.csproj", "{3F9EBBAC-6A42-49D7-89FD-110BC6AEEF67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login.Data", "src\Login.Data\Login.Data.csproj", "{961276BF-C34B-4AEE-919F-A8CCE0F06017}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Login.Data", "src\Login.Data\Login.Data.csproj", "{961276BF-C34B-4AEE-919F-A8CCE0F06017}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login.Domain", "src\Login.Domain\Login.Domain.csproj", "{C0C052D3-1E46-458E-846A-55930FB15E1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Login.Domain", "src\Login.Domain\Login.Domain.csproj", "{C0C052D3-1E46-458E-846A-55930FB15E1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login.Infraestruture", "src\Login.Infraestruture\Login.Infraestruture.csproj", "{8B3851D5-FEC5-45B5-A146-7B5DEE792996}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Login.Infraestruture", "src\Login.Infraestruture\Login.Infraestruture.csproj", "{8B3851D5-FEC5-45B5-A146-7B5DEE792996}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{7D5C669D-0EEF-4317-8715-12CD3F4D271D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login.Tests", "tests\Login.Tests\Login.Tests.csproj", "{6B881C47-A336-4CAE-B434-AD1585D89D48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unit.Tests", "tests\Login.Tests\Unit.Tests.csproj", "{6B881C47-A336-4CAE-B434-AD1585D89D48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDD.Tests", "tests\BDD\BDD.Tests.csproj", "{2888359D-E960-41C4-8A2E-4FDCE99B9473}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,9 +27,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3F9EBBAC-6A42-49D7-89FD-110BC6AEEF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -90,6 +89,21 @@ Global
 		{6B881C47-A336-4CAE-B434-AD1585D89D48}.Release|x64.Build.0 = Release|Any CPU
 		{6B881C47-A336-4CAE-B434-AD1585D89D48}.Release|x86.ActiveCfg = Release|Any CPU
 		{6B881C47-A336-4CAE-B434-AD1585D89D48}.Release|x86.Build.0 = Release|Any CPU
+		{2888359D-E960-41C4-8A2E-4FDCE99B9473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2888359D-E960-41C4-8A2E-4FDCE99B9473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2888359D-E960-41C4-8A2E-4FDCE99B9473}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2888359D-E960-41C4-8A2E-4FDCE99B9473}.Debug|x64.Build.0 = Debug|Any CPU
+		{2888359D-E960-41C4-8A2E-4FDCE99B9473}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2888359D-E960-41C4-8A2E-4FDCE99B9473}.Debug|x86.Build.0 = Debug|Any CPU
+		{2888359D-E960-41C4-8A2E-4FDCE99B9473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2888359D-E960-41C4-8A2E-4FDCE99B9473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2888359D-E960-41C4-8A2E-4FDCE99B9473}.Release|x64.ActiveCfg = Release|Any CPU
+		{2888359D-E960-41C4-8A2E-4FDCE99B9473}.Release|x64.Build.0 = Release|Any CPU
+		{2888359D-E960-41C4-8A2E-4FDCE99B9473}.Release|x86.ActiveCfg = Release|Any CPU
+		{2888359D-E960-41C4-8A2E-4FDCE99B9473}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{3F9EBBAC-6A42-49D7-89FD-110BC6AEEF67} = {1C96E5E1-3F54-49A0-91B1-3FA192E9E539}
@@ -97,5 +111,9 @@ Global
 		{C0C052D3-1E46-458E-846A-55930FB15E1D} = {1C96E5E1-3F54-49A0-91B1-3FA192E9E539}
 		{8B3851D5-FEC5-45B5-A146-7B5DEE792996} = {1C96E5E1-3F54-49A0-91B1-3FA192E9E539}
 		{6B881C47-A336-4CAE-B434-AD1585D89D48} = {7D5C669D-0EEF-4317-8715-12CD3F4D271D}
+		{2888359D-E960-41C4-8A2E-4FDCE99B9473} = {7D5C669D-0EEF-4317-8715-12CD3F4D271D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4DA019C-545A-460E-BBFC-3041C0161E2C}
 	EndGlobalSection
 EndGlobal

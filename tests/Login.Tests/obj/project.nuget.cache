@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+QZuvyUDV9HGZWYYKWfbXl4yk6QbLz3gMgZrKGf+2sTXeJx0+iuCQ0A9WMYWYZlTjCmF3W/MhvdzYpzVSBtu6g==",
+  "dgSpecHash": "82sSPPwoNelpI3O9SFT1lG8pZCSjn8SdMfNQwNcY4zsDr7HGa+ZsGVw7tb0Y9fPMhnvg4p5u6I1yEqylshMyXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mathe\\repos\\login-api\\tests\\Login.Tests\\Login.Tests.csproj",
+  "projectFilePath": "C:\\Users\\mathe\\repos\\login-api\\tests\\Login.Tests\\Unit.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

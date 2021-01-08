@@ -7,7 +7,10 @@ C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Login.API.r
 C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Login.API.runtimeconfig.dev.json
 C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Login.API.dll
 C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Login.API.pdb
+C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -49,6 +52,12 @@ C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\runtimes\wi
 C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Login.Data.dll
+C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Login.Domain.dll
+C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Login.Infraestruture.dll
+C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Login.Data.pdb
+C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Login.Domain.pdb
+C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Login.Infraestruture.pdb
 C:\Users\mathe\repos\login-api\src\Login.API\obj\Debug\netcoreapp3.1\Login.API.csprojAssemblyReference.cache
 C:\Users\mathe\repos\login-api\src\Login.API\obj\Debug\netcoreapp3.1\Login.API.AssemblyInfoInputs.cache
 C:\Users\mathe\repos\login-api\src\Login.API\obj\Debug\netcoreapp3.1\Login.API.AssemblyInfo.cs
@@ -61,12 +70,3 @@ C:\Users\mathe\repos\login-api\src\Login.API\obj\Debug\netcoreapp3.1\staticwebas
 C:\Users\mathe\repos\login-api\src\Login.API\obj\Debug\netcoreapp3.1\Login.API.dll
 C:\Users\mathe\repos\login-api\src\Login.API\obj\Debug\netcoreapp3.1\Login.API.pdb
 C:\Users\mathe\repos\login-api\src\Login.API\obj\Debug\netcoreapp3.1\Login.API.genruntimeconfig.cache
-C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Login.Data.dll
-C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Login.Domain.dll
-C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Login.Data.pdb
-C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Login.Domain.pdb
-C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Login.Infraestruture.dll
-C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\Login.Infraestruture.pdb
-C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
-C:\Users\mathe\repos\login-api\src\Login.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
