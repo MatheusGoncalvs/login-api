@@ -6,3 +6,4 @@ C:\Users\mathe\repos\login-api\src\Login.Domain\obj\Debug\netcoreapp3.1\Login.Do
 C:\Users\mathe\repos\login-api\src\Login.Domain\obj\Debug\netcoreapp3.1\Login.Domain.csproj.CoreCompileInputs.cache
 C:\Users\mathe\repos\login-api\src\Login.Domain\obj\Debug\netcoreapp3.1\Login.Domain.dll
 C:\Users\mathe\repos\login-api\src\Login.Domain\obj\Debug\netcoreapp3.1\Login.Domain.pdb
+C:\Users\mathe\repos\login-api\src\Login.Domain\obj\Debug\netcoreapp3.1\Login.Domain.csprojAssemblyReference.cache

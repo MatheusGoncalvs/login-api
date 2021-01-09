@@ -13,8 +13,11 @@ namespace Login.Domain
         [NotMapped]
         public int Idade { get; private set; }
         [NotMapped]
-        public DateTime DataNascimento { get; set; }
+        public DateTime DataNascimento { get; private set; }
 
+        public Pessoa() 
+        { 
+        }
         public Pessoa(DateTime dataNascimento)
         {
             this.DataNascimento = dataNascimento;
